@@ -1,0 +1,27 @@
+{
+  "name": "to-do-server",
+  "version": "1.0.0",
+  "description": "server of to-do app",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ats1999/to-do-server.git"
+  },
+  "keywords": [
+    "to-do"
+  ],
+  "author": "Rahul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ats1999/to-do-server/issues"
+  },
+  "homepage": "https://github.com/ats1999/to-do-server#readme"
+}
